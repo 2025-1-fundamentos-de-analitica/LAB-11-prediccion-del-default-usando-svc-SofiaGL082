@@ -243,4 +243,3 @@ def ejecutar_proceso():
     guardar_metricas(resultados + matrices)
 
 ejecutar_proceso()
-
